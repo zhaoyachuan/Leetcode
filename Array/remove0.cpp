@@ -6,6 +6,7 @@ using namespace std;
 int remove0(int* array,int length)
 {
     int slow=length-1;
+    int len=length;
     for(int fast=0;fast<length;fast++)
     {
         if(array[fast]==0)
