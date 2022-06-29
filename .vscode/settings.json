@@ -3,6 +3,7 @@
         "tuple": "cpp",
         "utility": "cpp",
         "xlocale": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "vector": "cpp"
     }
 }
