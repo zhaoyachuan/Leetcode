@@ -2,10 +2,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-/*
-滑动窗口；
-双指针变种；
-*/
+
 vector<vector<int>> generaterMatrix(int n)
 {
     vector<vector<int>> result(n,vector<int>(n,0));//定义一个二维数组,n*n大小，内容全为0；
